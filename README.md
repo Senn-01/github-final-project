@@ -15,3 +15,6 @@ A calculator that calculates simple interest given the principal, annual rate of
 Run the script using:
 ```bash
 ./simple-interest.sh
+
+2023 XYZ, Inc.
+
