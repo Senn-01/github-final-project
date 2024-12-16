@@ -16,5 +16,5 @@ Run the script using:
 ```bash
 ./simple-interest.sh
 
-2023 XYZ, Inc.
+2022 XYZ, Inc.
 
